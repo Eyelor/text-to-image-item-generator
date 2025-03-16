@@ -35,21 +35,21 @@
 This project generates unique product images from randomly generated names.  Using AI, it combines text-to-image generation with a streamlined workflow, creating novel visuals for marketing, design, or creative exploration.  Ideal for designers, marketers, or anyone needing quick, visually appealing product mockups.
 
 <p align="center">
-  <img src="./nice_images_generated/Airplane.PNG" width="33%">
-  <img src="./nice_images_generated/Bookshelf.PNG" width="33%">
-  <img src="./nice_images_generated/Botanicus.PNG" width="33%">
+  <img src="./nice_images_generated/Airplane.PNG" width="30%">
+  <img src="./nice_images_generated/Bookshelf.PNG" width="30%">
+  <img src="./nice_images_generated/Botanicus.PNG" width="30%">
   <br>
-  <img src="./nice_images_generated/Graviton.PNG" width="33%">
-  <img src="./nice_images_generated/Green Tea.PNG" width="33%">
-  <img src="./nice_images_generated/GrowSphere.PNG" width="33%">
+  <img src="./nice_images_generated/Graviton.PNG" width="30%">
+  <img src="./nice_images_generated/Green Tea.PNG" width="30%">
+  <img src="./nice_images_generated/GrowSphere.PNG" width="30%">
   <br>
-  <img src="./nice_images_generated/Inferno Drive.PNG" width="33%">
-  <img src="./nice_images_generated/Moonlight Bloom.PNG" width="33%">
-  <img src="./nice_images_generated/Moonlight Crystals.PNG" width="33%">
+  <img src="./nice_images_generated/Inferno Drive.PNG" width="30%">
+  <img src="./nice_images_generated/Moonlight Bloom.PNG" width="30%">
+  <img src="./nice_images_generated/Moonlight Crystals.PNG" width="30%">
   <br>
-  <img src="./nice_images_generated/Musical instrument.PNG" width="33%">
-  <img src="./nice_images_generated/Subway.PNG" width="33%">
-  <img src="./nice_images_generated/Tobacco.PNG" width="33%">
+  <img src="./nice_images_generated/Musical instrument.PNG" width="30%">
+  <img src="./nice_images_generated/Subway.PNG" width="30%">
+  <img src="./nice_images_generated/Tobacco.PNG" width="30%">
 </p>
 
 ---
